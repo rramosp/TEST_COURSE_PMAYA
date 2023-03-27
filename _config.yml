@@ -4,7 +4,7 @@ author: YOUR NAME / YOUR INSTITUTION
 logo: content/local/imgs/rlxmooc_logo-black.png
 
 repository:
-   url: https://github.com/rramosp/TEST_COURSE
+   url: https://github.com/rramosp/TEST_COURSE_PMAYA
    branch: main
 
 launch_buttons:
