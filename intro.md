@@ -1,5 +1,6 @@
 # Welcome 
 
+
 Welcome to **Template course**
 
 This is the welcome page of your course.
